@@ -1,5 +1,7 @@
 # S-matrix-KOR-ACL
 
+An Excel file for E. coli flux balance analysis is contained in the file "S matrix.zip".
+
 The Excel file named "FBA KOR ACL" contains the stoichiometric matrix (S) of E. coli core metabolism pathway with the metabolites and reactions that are included.
 This S matrix is used for flux balance analysis and estimating E. coli growth.
 The codes for objective function in MATLAB are present in the last two worksheets, named as "MATLAB code for KOR" and "MATLAB code for KOR ACL".
